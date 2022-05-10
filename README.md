@@ -17,5 +17,6 @@ Repair documentation of Keithley 237 High Voltage Source-Measure Unit
 ## Reference
 
 - ... (see resources)
+- https://xdevs.com/doc/Keithley/
 - https://www.eevblog.com/forum/metrology/calibrating-keithley-237-(236238)/
 - https://www.eevblog.com/forum/repair/should-i-return-a-keithley-238/
